@@ -11,6 +11,7 @@ public class LaunchPage extends ZohoBasePage{
 
 	public LaunchPage() {
 		System.out.println("___________Launch Page Constructor_________");
+		System.out.println("Change for Merge");
 //		PageFactory.initElements(getCurrentDriver(), this);
 	}
 	
