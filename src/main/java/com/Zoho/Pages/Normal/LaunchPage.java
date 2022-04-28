@@ -8,6 +8,12 @@ import com.Zoho.base.Pages.ZohoPage;
 
 public class LaunchPage extends ZohoBasePage{
 
+	public void LaunchPage2() {
+		System.out.println("___________Launch Page Constructor_________");
+		System.out.println("___________Launch Page Constructor_________");
+		System.out.println("Change for Merge 23546");
+//		PageFactory.initElements(getCurrentDriver(), this);
+	}
 
 	public LaunchPage() {
 		System.out.println("___________Launch Page Constructor_________");
